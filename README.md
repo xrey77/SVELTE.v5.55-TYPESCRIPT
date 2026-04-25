@@ -12,7 +12,7 @@ Editor tooling
 Getting help
 We recommend using SvelteKit, which lets you build almost anything. It's the official application framework from the Svelte team and powered by Vite. Create a new project with:
 
-<br/></br/>
+<br/>
 npx sv create myapp</br>
 cd myapp</br>
 npm install</br>
